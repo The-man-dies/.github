@@ -68,7 +68,7 @@ We choose the right tool for the job. Our expertise spans across full-stack web 
 
 ### 🔭 Current Focus
 
-- **Project [fake news detector](https://github.com/The-man-dies/fack-news-detector)**: The aim of the fake news project is to help news readers to identify bias and misinformation in news articles in a quick and reliable fashion.
+- **Project [fake news detector](https://github.com/The-man-dies/fake-news-detector)**: The aim of the fake news project is to help news readers to identify bias and misinformation in news articles in a quick and reliable fashion.
 - **Microservices Architecture**: Building scalable backends with NestJS and Go.
 - **Open Source**: Contributing to the tools we use daily.
 
