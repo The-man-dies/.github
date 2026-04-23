@@ -8,7 +8,7 @@
   From ideas to working systems — fast, pragmatic, and iterative.
 </p>
 
-<a href="mailto:contact@example.com">
+<a href="mailto:themandies4@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail" />
 </a>
 <a href="#">
@@ -83,7 +83,7 @@ We focus on tools we actually use in production:
 
 ## 📬 Join / Contact  
 
-- 📧 contact@example.com  
+- 📧 themandies4@gmail.com 
 - 💬 Discord (coming soon)  
 
 ---
