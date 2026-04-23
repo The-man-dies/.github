@@ -2,7 +2,7 @@
 
 # 💀 The-man-dies  
 
-### ⚡ Building real projects • Systems • Experiments  
+### ⚡ Building real projects • systems • experiments  
 
 <p>
   From ideas to working systems — fast, pragmatic, and iterative.
@@ -11,7 +11,7 @@
 <a href="mailto:themandies4@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail" />
 </a>
-<a href="#">
+<a href="https://discord.gg/UMRpJA6z">
   <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord" />
 </a>
 
@@ -45,12 +45,12 @@ Helping users identify misinformation and bias in news content.
 
 ---
 
-### 🛒 Experimental & Internal Projects  
+## 🧩 Ongoing Experiments  
 
-- 🧩 Dev tools & safety tooling  
-- 🎮 Game prototypes  
-- 🧠 Programming language experiments  
-- 🏗️ Backend systems with real business rules  
+- Dev tools & safety tooling  
+- Game prototypes  
+- Programming language experiments  
+- Backend systems with real business rules  
 
 ---
 
@@ -78,13 +78,6 @@ We focus on tools we actually use in production:
 - Strengthening backend architectures  
 - Building scalable web platforms  
 - Exploring system design & performance  
-
----
-
-## 📬 Join / Contact  
-
-- 📧 themandies4@gmail.com 
-- 💬 Discord (coming soon)  
 
 ---
 
